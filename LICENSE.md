@@ -1,5 +1,5 @@
 
-Copyright (c) 2017 <copyright holders>
+Copyright (c) 2017 Gulshan Gaurav
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
